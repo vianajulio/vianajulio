@@ -1,4 +1,4 @@
-### Olá! sou o Júlio Gabriel, estudante de D.S do Senai - Zerbini!
+### Olá! sou o Julio Gabriel, estudante de D.S do Senai - Zerbini!
 
 - 💼 Buscando um novo emprego.
 - 📚 Estudando HTML, CSS, Java, JavaScript, SQL e C#.
