@@ -1,7 +1,7 @@
 ### Olá! sou o Julio Gabriel, estudante de D.S do Senai - Zerbini!
 
-- 💼 Buscando um novo emprego.
-- 📚 Estudando HTML, CSS, Java, JavaScript, Flutter, Dart MySQL e C#.
+- 💼 Buscando conhecimento e uma nova oportunidade de trabalho.
+- 📚 Estudando HTML, CSS, Java, JavaScript, Flutter, Dart e MySQL.
 - 🎮 No meu tempo livre gosto de jogar, praticar esportes e pesquisar sobre tecnologias.
 
 ##
@@ -26,7 +26,7 @@
  ### Redes Sociais
   
   <div>
-    <a href="https://www.linkedin.com/in/júlio-rodrigues-7488621bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/julio-gabriel-rodrigues-7488621bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:juliogabrielv8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
   </div>
   
