@@ -1,6 +1,6 @@
 ### Olá! sou o Julio Viana, estudante de ADS na universidade São Francisco!
 #
-- 💼 Desenvolvedor Junior.
+- 💼 Desenvolvedor.
 - 📚 Tecnologias que estou estudando C#,Python e SQL.
 - 🏋️ Gosto de treinar, estudar, comer e dormir 😎👍.
 
