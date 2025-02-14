@@ -1,6 +1,6 @@
-### Olá! sou o Julio Viana, estudante de ADS na universidade São Francisco!
+### Eae! me chamo Julio Viana, estudante de ADS na Universidade São Francisco!
 #
-- 💼 Desenvolvedor.
+- 💼 Desenvolvedor focando em back-end.
 - 📚 Pricipais tecnologias C# .Net e Angular.
 - 🏋️ No meu tempo livre gosto de treinar, estudar, comer e dormir 😎👍.
 
