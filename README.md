@@ -1,6 +1,6 @@
-### Eae! me chamo Julio Viana, estudante de ADS na Universidade São Francisco!
+### Me chamo Julio Viana!
 #
-- 💼 Desenvolvedor focando em back-end.
+- 💼 Desenvolvedor back-end.
 - 📚 Pricipais tecnologias C# .Net e Angular.
 - 🏋️ No meu tempo livre gosto de treinar, estudar, comer e dormir 😎👍.
 
