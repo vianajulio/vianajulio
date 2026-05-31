@@ -30,12 +30,9 @@
 <tr>
 <td width="62%" valign="top">
 
-```bash
-~/julio $ cat about.md
-```
+<pre><code>~/julio $ cat about.md</code></pre>
 
-```
-┌──────────────────────────────────────────────┐
+<pre><code>┌──────────────────────────────────────────────┐
 │  NAME ......... Julio Viana                  │
 │  ROLE ......... Backend Engineer             │
 │  COMPANY ...... Rede Século 21               │
@@ -43,8 +40,7 @@
 │  SCHOOL ....... Universidade São Francisco   │
 │  LOCALE ....... pt-BR / improving en-US      │
 │  STATUS ....... [██████████░] 90% caffeinated│
-└──────────────────────────────────────────────┘
-```
+└──────────────────────────────────────────────┘</code></pre>
 
 > Designing distributed systems and the apologies that come with them.  
 > Spends more time reading code than writing it — that's the job.  
@@ -93,20 +89,20 @@
 
 **`// PIPES`**
 
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-39ff14?style=for-the-badge&logo=rabbitmq&logoColor=000000&labelColor=000000)
-![Redis](https://img.shields.io/badge/Redis-39ff14?style=for-the-badge&logo=redis&logoColor=000000&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-39ff14?style=for-the-badge&logo=docker&logoColor=000000&labelColor=000000)
-![Azure](https://img.shields.io/badge/Azure-39ff14?style=for-the-badge&logo=microsoftazure&logoColor=000000&labelColor=000000)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-39ff14?style=for-the-badge&logo=rabbitmq&labelColor=000000)
+![Redis](https://img.shields.io/badge/Redis-39ff14?style=for-the-badge&logo=redis&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-39ff14?style=for-the-badge&logo=docker&&labelColor=000000)
+![Azure](https://img.shields.io/badge/Azure-39ff14?style=for-the-badge&logo=microsoftazure&labelColor=000000)
 
 </td>
 <td align="center" width="33%">
 
 **`// SURFACE`**
 
-![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=000000&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)
-![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000)
+![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&labelColor=000000)
 
 </td>
 </tr>
@@ -175,7 +171,7 @@ const now = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40vianajulio-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/vianajulio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vianajulio--dev-8a2be2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://www.linkedin.com/in/vianajulio-dev/)
-[![Gmail](https://img.shields.io/badge/Mail-vianajulio.dev-39ff14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:vianajulio.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/Mail-vianajulio.dev-39ff14?style=for-the-badge&logo=gmail&labelColor=000000)](mailto:vianajulio.dev@gmail.com)
 
 </div>
 
