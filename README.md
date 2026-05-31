@@ -1,40 +1,216 @@
-### Me chamo Julio Viana!
-#
-- 💼 Desenvolvedor back-end.
-- 📚 Pricipais tecnologias C# .Net e Angular.
-- 🏋️ No meu tempo livre gosto de treinar, estudar, comer e dormir 😎👍.
+<!--
+███████████████████████████████████████████████████████████████
+██                                                           ██
+██    J U L I O   V I A N A   //   B A C K E N D   D E V    ██
+██                                                           ██
+███████████████████████████████████████████████████████████████
+-->
 
-#
 <div align="center">
-  <a href="https://github.com/vianajulio">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vianajulio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianajulio&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
-    
-<div align="center">
-  
-  ###  Desenvolvimento
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-  ### Frameworks
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+```
+███████████████████████████████████████████████████████████████
+██                                                           ██
+██    J U L I O   V I A N A   //   B A C K E N D   D E V     ██
+██                                                           ██
+███████████████████████████████████████████████████████████████
+```
 
-  ### Banco de Dados
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<a href="https://github.com/vianajulio">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=A855F7&background=00000000&center=true&vCenter=true&width=720&height=46&lines=%24+whoami;%24+cat+%2Fdev%2Fbrain+%7C+grep+coffee;%24+sudo+rm+-rf+%2Fbugs;%24+echo+%22ship+it%22+%3E%3E+production" alt="terminal-typing" />
+</a>
+
 </div>
 
-#
+<br/>
+
+<!-- ─────────────────────────────────  ABOUT  ───────────────────────────────── -->
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+```bash
+~/julio $ cat about.md
+```
+
+```
+┌──────────────────────────────────────────────┐
+│  NAME ......... Julio Viana                  │
+│  ROLE ......... Backend Engineer             │
+│  COMPANY ...... Rede Século 21               │
+│  DEGREE ....... Sys. Analysis & Development  │
+│  SCHOOL ....... Universidade São Francisco   │
+│  LOCALE ....... pt-BR / improving en-US      │
+│  STATUS ....... [██████████░] 90% caffeinated│
+└──────────────────────────────────────────────┘
+```
+
+> Designing distributed systems and the apologies that come with them.  
+> Spends more time reading code than writing it — that's the job.  
+> Convinced that *"it works on my machine"* is a valid architectural pattern.
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="./guts-monster.png" width="196px" style="border:3px solid #8a2be2; border-radius:6px;" />
+
+<br/>
+
+![status](https://img.shields.io/badge/STATUS-online-39ff14?style=for-the-badge&labelColor=000000)
+![focus](https://img.shields.io/badge/FOCUS-distributed%20systems-8a2be2?style=for-the-badge&labelColor=000000)
+![coffee](https://img.shields.io/badge/COFFEE-%E2%88%9E-ffffff?style=for-the-badge&labelColor=000000)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────────────  STACK  ───────────────────────────────── -->
+
 <div align="center">
-  
-   ### Redes Sociais
-   <a href="https://www.linkedin.com/in/vianajulio-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="mailto:juliogabrielv8@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>   
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                              T E C H   S T A C K                         ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**`// CORE`**
+
+![C#](https://img.shields.io/badge/C%23-8a2be2?style=for-the-badge&logo=csharp&logoColor=ffffff&labelColor=000000)
+![.NET](https://img.shields.io/badge/.NET-8a2be2?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=000000)
+![SQL Server](https://img.shields.io/badge/SQLServer-8a2be2?style=for-the-badge&logo=microsoftsqlserver&logoColor=ffffff&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-8a2be2?style=for-the-badge&logo=python&logoColor=ffffff&labelColor=000000)
+
+</td>
+<td align="center" width="33%">
+
+**`// PIPES`**
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-39ff14?style=for-the-badge&logo=rabbitmq&logoColor=000000&labelColor=000000)
+![Redis](https://img.shields.io/badge/Redis-39ff14?style=for-the-badge&logo=redis&logoColor=000000&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-39ff14?style=for-the-badge&logo=docker&logoColor=000000&labelColor=000000)
+![Azure](https://img.shields.io/badge/Azure-39ff14?style=for-the-badge&logo=microsoftazure&logoColor=000000&labelColor=000000)
+
+</td>
+<td align="center" width="33%">
+
+**`// SURFACE`**
+
+![Angular](https://img.shields.io/badge/Angular-ffffff?style=for-the-badge&logo=angular&logoColor=000000&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000&labelColor=000000)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=000000&labelColor=000000)
+
+</td>
+</tr>
+</table>
+
 </div>
-  
+
+<br/>
+
+<!-- ─────────────────────────────────  PROJECTS  ───────────────────────────────── -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                          S E L E C T E D   W O R K                       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<table>
+<tr>
+<td>
+
+```diff
++ [ ] project-alpha .......... message-broker playground
++ [ ] project-beta ........... distributed cache layer
++ [ ] project-gamma .......... internal API gateway
+- [x] sleep ................. deprecated since v2.0
+```
+
+> *Repositories under curation. Links and descriptions coming soon.*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────────────────  NOW  ───────────────────────────────── -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                                 N O W                                    ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+```js
+const now = {
+  building   : "scalable APIs @ Fraga Inteligência Automotiva",
+  learning   : ["event-driven architecture", "english", "patience"],
+  reading    : "Designing Data-Intensive Applications",
+  obsessing  : "why Redis did that",
+  shipping   : true,
+};
+```
+
+<br/>
+
+<!-- ─────────────────────────────────  CONNECT  ───────────────────────────────── -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                          C O N N E C T   /   P I N G                     ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-%40vianajulio-ffffff?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=000000)](https://github.com/vianajulio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vianajulio--dev-8a2be2?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000)](https://www.linkedin.com/in/vianajulio-dev/)
+[![Gmail](https://img.shields.io/badge/Mail-vianajulio.dev-39ff14?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=000000)](mailto:vianajulio.dev@gmail.com)
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────────────────  MANIFESTO  ───────────────────────────────── -->
+
+<div align="center">
+
+```
+─────────────────────────────  M A N I F E S T O  ─────────────────────────────
+```
+
+> *"First, make it work. Then, make it right. Then, make it fast"*
+
+> *Perhaps happiness is the lament of finitude. When life is good, all you can do is lament that it ends.*  
+> *— Clóvis de Barros Filho*
+
+```
+───────────────────────────────────────────────────────────────────────────────
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+███████████████████████████████████████████████████████████████
+██                                                           ██
+██         / /   E N D   O F   F I L E   / /                 ██
+██               keep shipping                               ██
+██                                                           ██
+███████████████████████████████████████████████████████████████
+```
+
+</div>
