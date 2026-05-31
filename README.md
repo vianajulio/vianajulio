@@ -30,9 +30,9 @@
 <tr>
 <td width="62%" valign="top">
 
-<pre><code>~/julio $ cat about.md</code></pre>
+<pre>~/julio $ cat about.md</pre>
 
-<pre><code>┌──────────────────────────────────────────────┐
+<pre>┌──────────────────────────────────────────────┐
 │  NAME ......... Julio Viana                  │
 │  ROLE ......... Backend Engineer             │
 │  COMPANY ...... Rede Século 21               │
@@ -40,7 +40,7 @@
 │  SCHOOL ....... Universidade São Francisco   │
 │  LOCALE ....... pt-BR / improving en-US      │
 │  STATUS ....... [██████████░] 90% caffeinated│
-└──────────────────────────────────────────────┘</code></pre>
+└──────────────────────────────────────────────┘</pre>
 
 > Designing distributed systems and the apologies that come with them.  
 > Spends more time reading code than writing it — that's the job.  
