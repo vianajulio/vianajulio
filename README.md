@@ -160,7 +160,7 @@ const now = {
   building   : "scalable APIs @ Fraga Inteligência Automotiva",
   learning   : ["event-driven architecture", "english", "patience"],
   reading    : "Designing Data-Intensive Applications",
-  obsessing  : "why Redis did that",
+  obsessing  : "why Claude did that?",
   shipping   : true,
 };
 ```
