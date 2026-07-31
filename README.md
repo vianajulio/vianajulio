@@ -157,7 +157,7 @@
 
 ```js
 const now = {
-  building   : "scalable APIs @ Fraga Inteligência Automotiva",
+  building   : "scalable APIs @ Rede Século 21",
   learning   : ["event-driven architecture", "english", "patience"],
   reading    : "Designing Data-Intensive Applications",
   obsessing  : "why Claude did that?",
