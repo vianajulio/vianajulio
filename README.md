@@ -39,7 +39,7 @@
 │  DEGREE ....... Sys. Analysis & Development  │
 │  SCHOOL ....... Universidade São Francisco   │
 │  LOCALE ....... pt-BR / improving en-US      │
-│  STATUS ....... [██████████░] 90% caffeinated│
+│  STATUS ....... [██████████ ] 90% caffeinated│
 └──────────────────────────────────────────────┘</pre>
 
 > Designing distributed systems and the apologies that come with them.  
