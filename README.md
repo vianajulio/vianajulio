@@ -143,6 +143,26 @@
 
 <br/>
 
+<!-- ─────────────────────────────────  SKILLDOCK  ───────────────────────────────── -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════╗
+║                              S K I L L D O C K                           ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+<pre>~/julio $ open skilldock</pre>
+
+Explore SkillDock — a focused space for learning and building.
+
+<a href="https://skilldock.vj-dev.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/SKILLDOCK-open-39ff14?style=for-the-badge&labelColor=000000" alt="Open SkillDock" /></a>
+
+</div>
+
+<br/>
+
 <!-- ─────────────────────────────────  NOW  ───────────────────────────────── -->
 
 <div align="center">
